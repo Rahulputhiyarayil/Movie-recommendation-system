@@ -1,5 +1,4 @@
 # Movie-recommendation-system
-Movie recommendation system using cosine similarity
 Content-based recommendation systems recommend items to a user by using the similarity of 
 items.It identifies the similarity between the products based on their descriptions
 # Cosine Similarity
